@@ -84,7 +84,7 @@ plot(alcohol_data$concentration_perc, alcohol_data$pulsation_change,
 
 
 #clean up before hypothesis testing
-rm(caff_summ, alc_summ, alcohol_plot, caffeine_plot)
+rm(alcohol_plot, caffeine_plot)
 
 
 ###
