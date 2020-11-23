@@ -1,6 +1,6 @@
 ###
 ### Data Analysis Using Statistics
-###     from Writing in Biology by Karin Knisely
+###     from "A Student Handbook for Writing in Biology, 6th edition" by Karin Knisely
 ### Replication Code
 ###
 ### Author:        Claire Kelling
