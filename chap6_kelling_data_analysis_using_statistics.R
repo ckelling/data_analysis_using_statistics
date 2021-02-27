@@ -17,7 +17,6 @@ library(readxl) #for reading in data
 library(tidyverse) #for manipulating data
 
 # Set Working Directory
-setwd("C:/Users/ckell/Desktop/Google Drive/01_Penn State/2020-2021/biology_stats_chapter/biol_r_code/data_analysis_using_statistics")
 setwd("~/data_analysis_using_statistics")
 
 ###
